@@ -44,7 +44,7 @@
     <plugin name="cordova-plugin-dialogs" />
 <!--    <plugin name="cordova-plugin-file-transfer" /> -->
     <plugin name="cordova-plugin-globalization" />
-    <plugin name="cordova-plugin-inappbrowser --save" />
+    <plugin name="cordova-plugin-inappbrowser" />
     <plugin name="cordova-plugin-network-information" />
     <plugin name="cordova-plugin-splashscreen" />
     <plugin name="cordova-plugin-vibration" />
