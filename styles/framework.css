@@ -731,9 +731,9 @@ ol ol ol{list-style-type:disc;}
 }
 
 .content-fullscreen{
-    margin-bottom:30px;
-    padding-left:0px;
-    padding-right:0px;
+    margin-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .container:after{
@@ -846,7 +846,9 @@ ol ol ol{list-style-type:disc;}
     .one-half{width:45%; float:left; margin-right:10%;}
     .one-third{width:28%; float:left; margin-right:8%;}    
     
-    .one-half-responsive{width:100%;}
+    .one-half-responsive{
+    width: 100%;
+}
     .one-third-responsive{width:100%;} 
 }
 
