@@ -105,9 +105,11 @@
 	<!-- Allow links to example.com -->
 <allow-navigation href="http://example.com/*" />
 <allow-navigation href="http://pcggo.com/*" />
+	<allow-navigation href="http://pcggo.com/docs/*" />
 <!-- Wildcards are allowed for the protocol, as a prefix to the host, or as a suffix to the path -->
 <allow-navigation href="*://*.example.com/*" />
 <allow-navigation href="*://*.pcggo.com/*" />
+	<allow-navigation href="*://*.pcggo.com/docs/*" />
 
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
